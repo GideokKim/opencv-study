@@ -363,6 +363,11 @@ FodyWeavers.xsd
 *.f4a
 *.f4b
 
+# OpenCV DLL files (too large for GitHub)
+*.dll
+opencv_world*.dll
+opencv_world*d.dll
+
 # Temporary files
 *.tmp
 *.temp
